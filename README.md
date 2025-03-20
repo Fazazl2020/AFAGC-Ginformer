@@ -18,7 +18,7 @@ This project used the VoiceBank-DEMAND dataset. This dataset consists of 30 spea
 Training Set: 11,572 utterances from 28 speakers mixed with DEMAND noises and artificial background noises at SNRs of 0, 5, 10, and 15 dB.
 Testing Set: 824 utterances from 2 unseen speakers mixed with unseen DEMAND noises at SNRs of 2.5, 7.5, 12.5, and 17.5 dB.
 📌 please download the dataset from VoiceBank-DEMAND.
-
+```bash
 Dataset Folder Structure
 Once the dataset is prepared, it should follow this folder structure:
 datasets
