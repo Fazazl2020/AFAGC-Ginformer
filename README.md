@@ -4,7 +4,7 @@ This project used the [**VoiceBank-DEMAND**](https://datashare.ed.ac.uk/handle/1
 - **Training Set:** 11,572 utterances from 28 speakers mixed with **DEMAND noises** and artificial background noises at SNRs of **0, 5, 10, and 15 dB**.  
 - **Testing Set:** 824 utterances from 2 unseen speakers mixed with **unseen DEMAND noises** at SNRs of **2.5, 7.5, 12.5, and 17.5 dB**.  
 
-📌 If you want to **train/test yourself**, please download the dataset from [**VoiceBank-DEMAND**](https://datashare.ed.ac.uk/handle/10283/2791).  
+📌 To **train/test**, please download the dataset from [**VoiceBank-DEMAND**](https://datashare.ed.ac.uk/handle/10283/2791).  
 
 ### **Dataset Folder Structure**  
 Once the dataset is prepared, it should follow this folder structure:  
