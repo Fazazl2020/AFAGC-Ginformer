@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 ---
 
-2️⃣ Dataset
+## **2️⃣ Dataset
 This project used the VoiceBank-DEMAND dataset. This dataset consists of 30 speakers from the VoiceBank corpus, which is further divided into a training set (28 speakers) and a testing set (2 speakers).
 
 Training Set: 11,572 utterances from 28 speakers mixed with DEMAND noises and artificial background noises at SNRs of 0, 5, 10, and 15 dB.
