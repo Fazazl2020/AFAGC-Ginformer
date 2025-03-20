@@ -27,5 +27,17 @@ datasets
 
 
 
+---
 
-## **🚀 Getting Started**  
+### 🔥 **Why This Fix Works?**  
+1️⃣ **A blank line** after the code block helps Markdown recognize it as a complete section.  
+2️⃣ **A horizontal rule (`---`)** **forces GitHub Markdown to visually separate the sections.**  
+3️⃣ **Ensures "Getting Started" starts on a new line** without merging into the dataset folder structure.
+
+---
+
+### **🎯 Final Answer: What Should You Do?**
+- **Copy & paste** the **updated Markdown** above into your `README.md`.  
+- **GitHub will now correctly separate the sections** when you view your repository.  
+
+🚀 **Now it will display perfectly!** 😊🎯
