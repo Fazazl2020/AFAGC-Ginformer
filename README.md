@@ -29,12 +29,3 @@ datasets
 
 
 ## **🚀 Getting Started**  
-
-### **1️⃣ Installation**  
-Clone the repository and install dependencies:  
-```bash
-git clone https://github.com/your-username/AFAGC-GinNet.git
-cd AFAGC-GinNet
-pip install -r requirements.txt
-
----
